@@ -1,0 +1,15 @@
+{
+  "javascript": {
+    "main": "http://localhost:3002/assets/main-4eb40e5d899837aadee3.js"
+  },
+  "styles": {},
+  "assets": {
+    "./src/containers/App.css": {
+      "app": "_3YJebMn_-7WH6nx74akipH",
+      "_style": "body{\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n._3YJebMn_-7WH6nx74akipH{\r\n    font-size: 72px;\r\n}"
+    }
+  },
+  "webpack": {
+    "version": "3.4.0"
+  }
+}
